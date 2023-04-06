@@ -3,7 +3,9 @@ A Python script to process a GPX file to a two-panel matplotlib animation (panel
 
 ## Requirements
 
+Python libraries:
 - matplotlib
 - numpy
 
+Other tools:
 - ffmpeg
